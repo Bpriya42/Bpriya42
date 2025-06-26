@@ -14,7 +14,7 @@
 
 📝 My research interests lie at the intersection of **NLP and responsible AI**. I’ve published and presented work at IEEE ISMAR 2023 on individualized virtual reality for mental health and developed multiple end-to-end systems—ranging from fairness-aware facial recognition to AI-powered resume screening.
 
-🌱 I’m pursuing my **Master’s in Computer Science** with an AI/ML focus at the **University of Massachusetts Amherst**. I hold a **Bachelor of Engineering in Electrical and Computer Engineering* (Dual Degree) from the **University of Queensland**.
+🌱 I’m pursuing my **Master’s in Computer Science** with an AI/ML focus at the **University of Massachusetts Amherst**. I hold a **Bachelor of Engineering in Electrical and Computer Engineering** (Dual Degree) from the **University of Queensland**.
 
 ---
 
